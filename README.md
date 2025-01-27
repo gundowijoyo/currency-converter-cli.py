@@ -81,6 +81,3 @@ Tidak ada data nilai tukar untuk XYZ.
 ## Catatan:
 - Program ini menggunakan layanan API eksternal **ExchangeRate-API**, yang memiliki batasan jumlah permintaan gratis per hari. Jika jumlah permintaan melebihi batas yang diberikan oleh layanan API, maka aplikasi akan gagal mendapatkan data nilai tukar dan menampilkan pesan kesalahan.
 - Pastikan untuk menggunakan kode mata uang yang benar sesuai dengan standar internasional (misalnya, USD, EUR, IDR, dll).
-
-## Lisensi
-Proyek ini menggunakan lisensi **MIT**. Silakan buka file `LICENSE` untuk detail lebih lanjut.
