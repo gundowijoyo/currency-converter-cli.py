@@ -46,16 +46,16 @@ Program ini adalah alat konversi mata uang sederhana yang memungkinkan pengguna 
 ### Contoh Penggunaan:
 ```bash
 Masukkan jumlah uang yang ingin dikonversi:
-100
+1
 Masukkan mata uang asal (contoh: USD):
 USD
 Masukkan mata uang tujuan (contoh: EUR):
-EUR
+IDR
 ```
 
 **Output:**
 ```bash
-100 USD = 85.75 EUR
+1.0 USD = 16179.70 IDR
 ```
 
 Jika ada kesalahan (misalnya, mata uang tujuan tidak valid), maka program akan menampilkan pesan kesalahan seperti:
